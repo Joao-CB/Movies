@@ -9,7 +9,6 @@
     "backend": "nodemon backend/index.js",
     "frontend": "cd frontend && npm run dev"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
